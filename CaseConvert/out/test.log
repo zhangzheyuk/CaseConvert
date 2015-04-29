@@ -1,0 +1,5 @@
+Wed, 29 Apr 2015 14:42:15 __init__.py[line:1620] DEBUG debug message
+Wed, 29 Apr 2015 14:42:15 __init__.py[line:1612] INFO info message
+Wed, 29 Apr 2015 14:42:15 __init__.py[line:1602] WARNING warning message
+Wed, 29 Apr 2015 14:42:15 __init__.py[line:1586] ERROR error message
+Wed, 29 Apr 2015 14:42:15 __init__.py[line:1576] CRITICAL critical message
